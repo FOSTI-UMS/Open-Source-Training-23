@@ -1,7 +1,8 @@
 # Kontribusi kalian
 
-Halo temen-temen Fosti, disini kalian dapat belajar melakukan kontribusi lohh!
-
+Halo temen-temen Fosti, disini kalian dapat belajar melakukan kontribusi lohh!<br>
+Coba buat nambahin file dengan nama kalian dan ber-ekstensi .txt contoh: joko.txt<br>
+dengan isi file berupa identitas kalian
 
 Contributor:<br>
 <a href="https://github.com/FOSTIUMS/opensource-training/graphs/contributors">
